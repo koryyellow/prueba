@@ -65,7 +65,7 @@ Repositorio GitHub:
 (https://github.com/koryyellow/ProyectoFinal_TiendaAbarrotes)
 
 Demo en Vivo:
-[https://TU-PROYECTO.infinityfreeapp.com](https://koryyellow.github.io/ProyectoFinal_TiendaAbarrotes/)  (github pages)
+(https://koryyellow.github.io/ProyectoFinal_TiendaAbarrotes/)  (github pages)
 
 Pagina Web
 [https://prueba2666.infinityfreeapp.com/)  
