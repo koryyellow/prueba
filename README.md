@@ -1,4 +1,4 @@
-# Proyecto: Sistema de Gestión – Tienda de Abarrotes
+# Proyecto 7 : Sistema de Gestión – Tienda de Abarrotes
 
 Sistema integral para la gestión de inventario, ventas y pagos a crédito de una tienda de abarrotes.
 
