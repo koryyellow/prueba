@@ -62,7 +62,7 @@ Las relaciones se gestionan mediante llaves foráneas.
 ## 🔗 Enlaces
 
 Repositorio GitHub:
-[https://github.com/TU-USUARIO/TU-REPOSITORIO](https://github.com/koryyellow/ProyectoFinal_TiendaAbarrotes)
+(https://github.com/koryyellow/ProyectoFinal_TiendaAbarrotes)
 
 Demo en Vivo:
 [https://TU-PROYECTO.infinityfreeapp.com](https://koryyellow.github.io/ProyectoFinal_TiendaAbarrotes/)  (github pages)
